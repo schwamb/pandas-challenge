@@ -1,0 +1,7 @@
+﻿The majority of buyers are men at 84%, and are 82% of total purchase value.
+
+
+The majority of purchases are made by customers who are 20-24 years old. The age group with the highest average total purchase per person is 35-39.
+
+
+The top 5 customers by total purchase price have both a higher number of purchases than average, and a higher than average purchase price.
